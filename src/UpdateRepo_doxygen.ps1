@@ -31,7 +31,7 @@ $UpdatingScriptPath = "../UpdateOrCloneRepository.ps1"
 
 $global:CurrentRepo_Directory = "doxygen/"
 $global:CurrentRepo_Ref = $null
-$global:CurrentRepo_Address = https://github.com/doxygen/doxygen""
+$global:CurrentRepo_Address = "https://github.com/doxygen/doxygen"
 $global:CurrentRepo_Remote = "origin"
 $global:CurrentRepo_AddressSecondary = $null
 $global:CurrentRepo_RemoteSecondary = $null
