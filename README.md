@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This repository contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used in the **[codedoc](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)** repository used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but the *codedoc* repository is also easily adapted to be used with any other source code repository (or a group of repositories, as is the case with *IGLib*).
+This repository contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used by the ***[codedoc repository](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)***, which is used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but can be **easily adapted to be used with any other source code repository** (or a group of repositories, as is the case with *IGLib*).
 
 For **licenses and source code of the contained binaries**, see the file
 
