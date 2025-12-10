@@ -1,16 +1,18 @@
-# IGLib.workspace.codedoc_resources
+# Repository `codedoc_resources_25_12`
 
-This repositort contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used in the **[codedoc](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)** repository used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but the *codedoc* repository can b easily adapted to use with any other source code repository (or a large group of repositories, as is the case with *IGLib*).
+# About this Repository
+
+This repository contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used in the **[codedoc](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)** repository used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but the *codedoc* repository can b easily adapted to use with any other source code repository (or a large group of repositories, as is the case with *IGLib*).
 
 For licenses and source of the contained binaries, see the file
 
-> *bin/0readme_bin.txt*
+> *[bin/README_bin.md](./bin/README_bin.md)*
 
 ## Contained Binaries
 
 This repository containd binaries under different licenses. Please refer to the license and copyright information included in the binary directories.
 
-Source code corresponding to the included licenses can be clonet into the current directory bu running the PowerShell script
+Source code corresponding to the included licenses can be cloned into the current directory bu running the PowerShell script
 
 > UpdateRepo_codedoc.ps1
 
