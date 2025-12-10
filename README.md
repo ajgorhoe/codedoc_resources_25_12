@@ -2,11 +2,13 @@
 
 ## About this Repository
 
-This repository contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used by the ***[codedoc repository](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)***, which is used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but can be **easily adapted to be used with any other source code repository** (or a group of repositories, as is the case with *IGLib*).
+This repository contains the necessary resources for generation of code documentation, namely the binaries of ***[Doxygen](https://gitlab.com/graphviz/graphviz)*** and ***[Graphviz](https://gitlab.com/graphviz/graphviz)***. Binaries distributed by this repository are used by the ***[codedoc repository](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc)***, which is used for generation of code documentation for the **[Investigative Generic Library(IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore)**, but can be *[easily adapted](https://github.com/ajgorhoe/IGLib.workspace.doc.codedoc/blob/main/README.md#customizing-the-repository-for-other-software-projects) to be used with any other source code repository* (or a group of repositories, as is the case with *IGLib*).
 
 For **licenses and source code of the contained binaries**, see the file
 
 > *[bin/README_bin.md](./bin/README_bin.md)*
+
+This repository is the newer version of the *[codedoc_resources repository](https://github.com/ajgorhoe/IGLib.workspace.codedoc_resources)* from October 2021, which contains the older version of Doxygen and Graphviz, but with the advantage / convenience that it does not rely on Git LFS.
 
 ## Use of Git LFS
 
