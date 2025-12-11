@@ -10,7 +10,7 @@ For **licenses and source code of the contained binaries**, see the file
 
 This repository is the newer version of the *[codedoc_resources repository](https://github.com/ajgorhoe/IGLib.workspace.codedoc_resources)* from October 2021, which contains the older version of Doxygen and Graphviz, but with the advantage / convenience that it does not rely on Git LFS.
 
-## Use of Git LFS
+### Use of Git LFS
 
 This repository **uses Git Large File Storage (LFS)**. In order **to use this repository**, you need to follow some steps:
 
